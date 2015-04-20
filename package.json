@@ -1,0 +1,44 @@
+{
+  "name": "archiver-tar",
+  "version": "0.0.1",
+  "description": "a tar plugin for archiver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ctalkington@github.com/archiverjs/archiver-tar.git"
+  },
+  "author": {
+    "name": "Chris Talkington",
+    "url": "http://christalkington.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/archiverjs/archiver-tar/issues"
+  },
+  "homepage": "https://github.com/archiverjs/archiver-tar#readme",
+  "keywords": [
+    "archiver",
+    "archiverplugin",
+    "tar"
+  ],
+  "files": [
+    "lib",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "dependencies": {
+    "tar-stream": "~1.1.0",
+    "through2": "~0.6.1"
+  },
+  "devDependencies": {
+    "tar": "~1.0.3"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
