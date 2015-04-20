@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-$ npm install --save imagemin-jpegoptim
+$ npm install --save archiver-tar
 ```
 
 ## Usage
