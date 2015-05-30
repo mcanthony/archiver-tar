@@ -1,4 +1,4 @@
-# archiver-tar v0.0.1 [![Build Status](https://travis-ci.org/archiverjs/archiver-tar.svg?branch=master)](https://travis-ci.org/archiverjs/archiver-tar)
+# archiver-tar v0.1.0 [![Build Status](https://travis-ci.org/archiverjs/archiver-tar.svg?branch=master)](https://travis-ci.org/archiverjs/archiver-tar)
 
 > tar [archiver](https://github.com/archiverjs/node-archiver) plugin
 

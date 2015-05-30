@@ -1,6 +1,6 @@
 {
   "name": "archiver-tar",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "a tar plugin for archiver",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://ctalkington@github.com/archiverjs/archiver-tar.git"
+    "url": "https://github.com/archiverjs/archiver-tar.git"
   },
   "author": {
     "name": "Chris Talkington",
